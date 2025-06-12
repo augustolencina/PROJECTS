@@ -14,10 +14,12 @@ Main entities to manage:
 - Users: Credentials and roles for accessing the system.
 
 Authentication: Login system with usernames and passwords. Allows you to differentiate roles (administrator and regular user), with only the administrator having access to user management.
+
 Search:
   - Search for clients by CUIT (Tax ID).
   - Search for receipts by number.
   - Search for receipts by client CUIT (Tax ID).
+
 Reports: Client list and receipt list.
 
 File name(s) and storage path(s):
