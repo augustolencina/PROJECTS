@@ -1,5 +1,5 @@
-# Portfolio
-This portfolio contains the projects I have been working on.
+# PROJECTS
+What I was doing.
 
 # 1st Proyect
 The first project, developed in HTML and JavaScript, consists of a web page in which the user has to guess a specific number that is between 1 and 100.
